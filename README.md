@@ -15,25 +15,21 @@
 
 💻 [Imersão Dados com Python](https://github.com/dcampos90/alura_ImersaoDadosPython/blob/main/Aula_01_a_04_Imers%C3%A3o_Dados_com_Python_%7C_Alura_2026.ipynb) 
 
-<p/>
-✔️ AULA 01
+<br/>
+✔️ ## AULA 01
 ## sefjnsfnsinsnrfsnrinsf
 
 ⚡
 
-✔️
+✔️ ## AULA 01
 
 ⚡
 
-✔️
+✔️ ## AULA 01
 
 ⚡
 
-✔️
-
-⚡
-
-✔️
+✔️ ## AULA 01
 
 ⚡
 
@@ -46,7 +42,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow">
 </div>
 
-***
 
-⚡
+***
+✔️ [Certificado](#)
+***
 
