@@ -22,17 +22,17 @@
 ⚡
 
 ✔️ **AULA 01**
-<p><b> **sdsdssfsdfsdfsfd **</b></p
+<p><b> Neste primeiro dia o foco foi na exploração de dados com a biblioteca Pandas. Aprendendo como carregar arquivos CSV no Google Colab de forma prática, utilizar a biblioteca Pandas para leitura e visualização inicial de dados e manipular dados reais com os principais comandos de análise. </b></p
 
 
 
-✔️ **AULA 01**
-<p><b> **sdsdssfsdfsdfsfd **</b></p
+✔️ **AULA 02**
+<p><b> Continuando os estudos dessa semana de imersão, a essência do dia foi a limpeza e preparação dos dados. Onde aprendemos técnicas para renomear colunas de maneira clara e organizada, identificar e tratar dados faltantes em bases reais, aplicar filtros simples para selecionar informações relevantes e gerar estatísticas descritivas que apoiam a análise e tomada de decisão. </b></p
 
 
 
-✔️ **AULA 01**
-<p><b> **sdsdssfsdfsdfsfd **</b></p
+✔️ **AULA 03**
+<p><b> Continuando os estudos dessa semana de imersão, a essência do dia foi a limpeza e preparação dos dados. Onde aprendemos técnicas para renomear colunas de maneira clara e organizada, identificar e tratar dados faltantes em bases reais, aplicar filtros simples para selecionar informações relevantes e gerar estatísticas descritivas que apoiam a análise e tomada de decisão. </b></p
 
 
 
