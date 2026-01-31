@@ -38,7 +38,7 @@ Projeto realizado durante a Imersão Dados com Python oferecida pela Alura, Jane
 
 ## 🕹 Tecnologias
 <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
 ***
