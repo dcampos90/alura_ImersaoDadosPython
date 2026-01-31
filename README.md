@@ -7,9 +7,9 @@
 
 <h2>💬 Sobre</h2>
 
-> <p><b></b></p>
+> <p><b>.</b></p>
 > <p><b> Projeto realizado durante a Imersão Dados com Python oferecida pela Alura, Janeiro 2026 </b></p>
-> <p><b></b></p>
+> <p><b>.</b></p>
 
 ***
 
@@ -22,17 +22,17 @@
 ⚡
 
 ✔️ **AULA 01**
-<p><b>sdsdssfsdfsdfsfd</b></p>
+<p><b> **sdsdssfsdfsdfsfd **</b></p
 
 
 
 ✔️ **AULA 01**
-<p><b>sdsdssfsdfsdfsfd</b></p
+<p><b> **sdsdssfsdfsdfsfd **</b></p
 
 
 
 ✔️ **AULA 01**
-<p><b>sdsdssfsdfsdfsfd</b></p
+<p><b> **sdsdssfsdfsdfsfd **</b></p
 
 
 
