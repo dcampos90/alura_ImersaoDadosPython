@@ -32,7 +32,11 @@
 
 
 ✔️ **AULA 03**
-<p><b> Continuando os estudos dessa semana de imersão, a essência do dia foi a limpeza e preparação dos dados. Onde aprendemos técnicas para renomear colunas de maneira clara e organizada, identificar e tratar dados faltantes em bases reais, aplicar filtros simples para selecionar informações relevantes e gerar estatísticas descritivas que apoiam a análise e tomada de decisão. </b></p
+<p><b> Criação de gráficos estatísticos para analisar os dados de forma visual, construindo histogramas para observar a distribuição das informações. Utilizando outras bibliotecas de Python, como Seaborn e Matplotlib, que ajudam na criação de gráficos. Exercitar a visualização de dados para apoiar a análise e tomada de decisões. </b></p
+
+
+✔️ **AULA 0**
+<p><b> # </b></p
 
 ⚡
 
