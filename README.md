@@ -3,9 +3,9 @@
   
 <h2>💬 Sobre</h2>
 
-> <p><b> Projeto realizado durante a Imersão Dados com Python oferecida pela Alura, Janeiro 2026 </b></p>
+<p><b> Projeto realizado durante a Imersão Dados com Python oferecida pela Alura, Janeiro 2026 </b></p>
 
-***
+
 
 Projeto realizado durante a Imersão Dados com Python oferecida pela Alura, Janeiro 2026
 
@@ -38,7 +38,7 @@ Projeto realizado durante a Imersão Dados com Python oferecida pela Alura, Jane
 
 ## 🕹 Tecnologias
 <div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow">
 </div>
 
 ***
@@ -69,4 +69,6 @@ Quer ajudar a melhorar o guia? Fique à vontade para abrir um pull request!
 
 **Dúvidas?**
 
-Se tiver alguma dúvida, pode abrir uma issue aqui no repositório ou me procurar nas redes sociais! 
+Se tiver alguma dúvida, pode abrir uma issue aqui no repositório ou me procurar nas redes sociais!
+
+```
