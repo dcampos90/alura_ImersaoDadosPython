@@ -34,9 +34,9 @@
 ✔️ **AULA 03**
 <p><b> Continuando os estudos dessa semana de imersão, a essência do dia foi a limpeza e preparação dos dados. Onde aprendemos técnicas para renomear colunas de maneira clara e organizada, identificar e tratar dados faltantes em bases reais, aplicar filtros simples para selecionar informações relevantes e gerar estatísticas descritivas que apoiam a análise e tomada de decisão. </b></p
 
+⚡
 
-
-⚡ [Colab do projeto](https://colab.research.google.com/github/dcampos90/alura_ImersaoDadosPython/blob/main/Aula_01_a_04_Imers%C3%A3o_Dados_com_Python_%7C_Alura_2026.ipynb)
+📋 [Colab do projeto](https://colab.research.google.com/github/dcampos90/alura_ImersaoDadosPython/blob/main/Aula_01_a_04_Imers%C3%A3o_Dados_com_Python_%7C_Alura_2026.ipynb)
 
 ***
 
