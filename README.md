@@ -16,9 +16,8 @@
 
 💻 [Imersão Dados com Python](https://github.com/dcampos90/alura_ImersaoDadosPython/blob/main/Aula_01_a_04_Imers%C3%A3o_Dados_com_Python_%7C_Alura_2026.ipynb) 
 
-<p>
+***
 
-</p>
 
 ⚡
 
@@ -35,11 +34,11 @@
 ✔️ **AULA 01**
 <p><b>sdsdssfsdfsdfsfd</b></p
 
+***
 
+⚡ [Colab do projeto](https://colab.research.google.com/github/dcampos90/alura_ImersaoDadosPython/blob/main/Aula_01_a_04_Imers%C3%A3o_Dados_com_Python_%7C_Alura_2026.ipynb)
 
-✔️ [Colab do projeto](https://colab.research.google.com/github/dcampos90/alura_ImersaoDadosPython/blob/main/Aula_01_a_04_Imers%C3%A3o_Dados_com_Python_%7C_Alura_2026.ipynb)
-
-⚡
+***
 
 ## 🕹 Tecnologias
 <div>
