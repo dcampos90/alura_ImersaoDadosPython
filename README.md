@@ -1,20 +1,21 @@
 <h1>Imersão Dados com Python</h1>
 <p>
   
-⚡
+<h2>💬 Sobre</h2>
+
 Projeto realizado durante a Imersão Dados com Python oferecida pela Alura, Janeiro 2026
 
-[Imersão Dados com Python](https://github.com/dcampos90/alura_ImersaoDadosPython/blob/main/Aula_01_a_04_Imers%C3%A3o_Dados_com_Python_%7C_Alura_2026.ipynb) 
+💻 [Imersão Dados com Python](https://github.com/dcampos90/alura_ImersaoDadosPython/blob/main/Aula_01_a_04_Imers%C3%A3o_Dados_com_Python_%7C_Alura_2026.ipynb) 
 
 <br/>
-# AULA 01
+⚡ AULA 01
 ## sefjnsfnsinsnrfsnrinsf
-# AULA 02
-# AULA 03
-# AULA 04
+⚡AULA 02
+⚡AULA 03
+⚡AULA 04
 
 
-❐ [Colab do projeto](https://colab.research.google.com/github/dcampos90/alura_ImersaoDadosPython/blob/main/Aula_01_a_04_Imers%C3%A3o_Dados_com_Python_%7C_Alura_2026.ipynb)
+✔️ [Colab do projeto](https://colab.research.google.com/github/dcampos90/alura_ImersaoDadosPython/blob/main/Aula_01_a_04_Imers%C3%A3o_Dados_com_Python_%7C_Alura_2026.ipynb)
 
 
 <h2>💬 Sobre</h2>
@@ -33,15 +34,13 @@ Projeto realizado durante a Imersão Dados com Python oferecida pela Alura, Jane
 
 ## 🕹 Tecnologias
 <div>
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-0000ff?&style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 ***
 
 ⚡
-
+```
 <h2>💻 Projeto</h2>
 
 ✔️ [GUIA GRAPHIC MSP](https://alura-imersao-dev-com-google-gemini-xi.vercel.app/) 
