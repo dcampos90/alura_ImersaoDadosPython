@@ -35,8 +35,8 @@
 <p><b> Criação de gráficos estatísticos para analisar os dados de forma visual, construindo histogramas para observar a distribuição das informações. Utilizando outras bibliotecas de Python, como Seaborn e Matplotlib, que ajudam na criação de gráficos. Exercitar a visualização de dados para apoiar a análise e tomada de decisões. </b></p
 
 
-✔️ **AULA 0**
-<p><b> # </b></p
+✔️ **AULA 04**
+<p><b>  </b></p
 
 ⚡
 
