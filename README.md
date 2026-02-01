@@ -39,7 +39,7 @@ https://aluraimersaodadospython-dvha2aynpr5kkcpvu5f9dx.streamlit.app/
 
 
 ✔️ **AULA 04**
-<p><b>  </b></p
+<p><b> Conhecendo a biblioteca Streamlit para criar dashboards interativos desenvolvendo interfaces simples para visualização de dados. Aplicação de filtros dinâmicos para explorar os dados em tempo real e gerar gráficos direto no dashboard para facilitar a análise. Finalizando o projeto com divulgação do dashboard via Streamlit. </b></p
 
 ⚡
 
