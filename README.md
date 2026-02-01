@@ -16,6 +16,9 @@
 
 💻 [Imersão Dados com Python](https://github.com/dcampos90/alura_ImersaoDadosPython/blob/main/Aula_01_a_04_Imers%C3%A3o_Dados_com_Python_%7C_Alura_2026.ipynb) 
 
+⚜ [Dashboard com Streamlit](https://aluraimersaodadospython-dvha2aynpr5kkcpvu5f9dx.streamlit.app/)
+
+https://aluraimersaodadospython-dvha2aynpr5kkcpvu5f9dx.streamlit.app/
 ***
 
 
