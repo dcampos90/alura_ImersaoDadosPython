@@ -18,7 +18,7 @@
 
 ⚜ [Dashboard com Streamlit](https://aluraimersaodadospython-dvha2aynpr5kkcpvu5f9dx.streamlit.app/)
 
-https://aluraimersaodadospython-dvha2aynpr5kkcpvu5f9dx.streamlit.app/
+
 ***
 
 
